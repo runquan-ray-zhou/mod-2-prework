@@ -14,7 +14,7 @@ const questions = [
             { text: "Vatican City", correct: true},
             { text: "Bhutan", correct: false},
             { text: "Nepal", correct: false},
-            { text: "Shri Lanka", correct: false},
+            { text: "Sri Lanka", correct: false},
         ]
     },
     {
